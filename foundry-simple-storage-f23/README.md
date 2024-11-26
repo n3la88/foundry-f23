@@ -66,4 +66,4 @@ $ cast --help
 ```
 
 Contract Address:
-https://sepolia.etherscan.io/address/0x9062a53Ae412Bb37d85d8F735c00938A9b647253
+https://sepolia.etherscan.io/address/0x9062a53Ae412Bb37d85d8F735c00938A9b6472534
